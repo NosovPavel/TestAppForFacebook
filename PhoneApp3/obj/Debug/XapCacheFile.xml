@@ -1,0 +1,12 @@
+﻿<xapCache source="C:\Users\Nosov_000\Documents\Visual Studio 2012\Projects\Test\PhoneApp3\PhoneApp3\Bin\Debug\PhoneApp3_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="19.08.2013 12:54:37">
+  <file source="C:\Users\Nosov_000\Documents\Visual Studio 2012\Projects\Test\PhoneApp3\PhoneApp3\obj\Debug\PhoneApp3.dll" archivePath="PhoneApp3.dll" lastWriteTime="19.08.2013 12:54:36" />
+  <file source="C:\Users\Nosov_000\Documents\Visual Studio 2012\Projects\Test\PhoneApp3\PhoneApp3\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="19.08.2013 12:44:42" />
+  <file source="C:\Users\Nosov_000\Documents\Visual Studio 2012\Projects\Test\PhoneApp3\PhoneApp3\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="19.08.2013 12:44:42" />
+  <file source="C:\Users\Nosov_000\Documents\Visual Studio 2012\Projects\Test\PhoneApp3\PhoneApp3\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="19.08.2013 12:44:42" />
+  <file source="C:\Users\Nosov_000\Documents\Visual Studio 2012\Projects\Test\PhoneApp3\PhoneApp3\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="19.08.2013 12:44:42" />
+  <file source="C:\Users\Nosov_000\Documents\Visual Studio 2012\Projects\Test\PhoneApp3\PhoneApp3\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="19.08.2013 12:44:42" />
+  <file source="C:\Users\Nosov_000\Documents\Visual Studio 2012\Projects\Test\PhoneApp3\PhoneApp3\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="19.08.2013 12:45:05" />
+  <file source="C:\Users\Nosov_000\Documents\Visual Studio 2012\Projects\Test\PhoneApp3\PhoneApp3\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="19.08.2013 12:44:42" />
+  <file source="C:\Users\Nosov_000\Documents\Visual Studio 2012\Projects\Test\PhoneApp3\PhoneApp3\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="19.08.2013 12:44:42" />
+  <file source="C:\Users\Nosov_000\Documents\Visual Studio 2012\Projects\Test\PhoneApp3\PhoneApp3\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="19.08.2013 12:45:05" />
+</xapCache>
